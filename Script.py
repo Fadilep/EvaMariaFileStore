@@ -64,7 +64,8 @@ A Module To Get Sharable Link For Any Telegram Media
 
 📚 Avaible Commands:
 
-◉ /link :- Reply To Any Telegram Media"""
+◉ /link :- Reply To Any Telegram Media
+Made with 🖤 @FDBotz """
     INFO_TXT = """<b>👤 User Information</b>
 
 A Module To Fetch Telegram User Info
