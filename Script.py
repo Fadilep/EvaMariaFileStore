@@ -58,14 +58,13 @@ class script(object):
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
-    FILESTORE_TXT ="""<b>📁 File Store</b>
+    FILESTORE_TXT = """<b>📁 File Store</b>
 
 A Module To Get Sharable Link For Any Telegram Media 
 
 📚 Avaible Commands:
 
-◉ /link :- Reply To Any Telegram Media
-Made with 🖤 @FDBotz """
+◉ /link :- Reply To Any Telegram Media"""
     INFO_TXT = """<b>👤 User Information</b>
 
 A Module To Fetch Telegram User Info
