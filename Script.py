@@ -5,7 +5,7 @@ class script(object):
 
 ⚠️ᴍᴏʀᴇ ʜᴇʟᴘ ᴄʜᴇᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
 
-©️𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍𝐄𝐃 𝐁𝐘  <a href=https://t.me/HadidTG>HADID</a>"""
+©️𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍𝐄𝐃 𝐁𝐘  <a href=https://t.me/HadidTG>ʜᴀᴅɪᴅ</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ 
